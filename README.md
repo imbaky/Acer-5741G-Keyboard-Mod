@@ -13,3 +13,20 @@ After some research I discovered that there is another model of Acer that had an
 
 ![img_20130304_223753](https://cloud.githubusercontent.com/assets/6955509/3062219/0fc83792-e219-11e3-9008-f216b987ae30.jpg)
 
+##What you need:
+
+* Acer Aspire 8942G Keyboard
+* Gluegun
+* little switch
+* small wires
+* Multimeter
+* Solder Iron
+* solder wire with 2.0% flux
+
+##Disassemble your Laptop
+
+##Modify Housing
+
+
+
+##Finally Done!!!
