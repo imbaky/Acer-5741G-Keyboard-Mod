@@ -12,3 +12,4 @@ So I decide to change that and add lights to the keyboard.
 After some research I discovered that there is another model of Acer that had an identical keyboard but with an extra flex-cable to power the lights.
 
 
+
