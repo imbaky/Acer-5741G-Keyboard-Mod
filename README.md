@@ -22,6 +22,8 @@ After some research I discovered that there is another model of Acer that had an
 * Multimeter
 * Solder Iron
 * solder wire with 2.0% flux
+* Screw drivers
+
 
 ##Disassemble your Laptop
 
