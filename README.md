@@ -30,3 +30,7 @@ After some research I discovered that there is another model of Acer that had an
 
 
 ##Finally Done!!!
+
+![img_20130305_115222](https://cloud.githubusercontent.com/assets/6955509/3062333/ca7207c4-e21b-11e3-88d3-ec5f27f2b714.jpg)
+
+![img_20130302_005732](https://cloud.githubusercontent.com/assets/6955509/3062337/fc125306-e21b-11e3-8cbd-c67d985095be.jpg)
