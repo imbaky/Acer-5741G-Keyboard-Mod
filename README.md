@@ -32,7 +32,7 @@ After some research I discovered that there is another model of Acer that had an
 ##Finally Done!!!
 
 Keyboard backlight:
-![img_20130305_115222](https://cloud.githubusercontent.com/assets/6955509/3062333/ca7207c4-e21b-11e3-88d3-ec5f27f2b714.jpg)
+![img_0739](https://cloud.githubusercontent.com/assets/6955509/3062373/3bace890-e21d-11e3-818f-15027e0b34ba.JPG)
 
 The backlight switch :
 
