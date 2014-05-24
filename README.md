@@ -25,7 +25,8 @@ After some research I discovered that there is another model of Acer that had an
 * Screw drivers
 
 
-##Disassemble your Laptop
+###Disassemble your Laptop
+https://www.youtube.com/watch?v=RquQbcfAYBo
 
 ##Modify Housing
 
