@@ -11,7 +11,6 @@ So I decide to change that and add lights to the keyboard.
 
 After some research I discovered that there is another model of Acer that had an identical keyboard but with an extra flex-cable to power the lights but it would take a few modifications for it to work.
 
-![img_20130304_223753](https://cloud.githubusercontent.com/assets/6955509/3062219/0fc83792-e219-11e3-9008-f216b987ae30.jpg)
 
 ##What you need:
 
@@ -35,8 +34,6 @@ https://www.youtube.com/watch?v=RquQbcfAYBo
 ##Finally Done!!!
 
 Keyboard backlight:
-![img_0739](https://cloud.githubusercontent.com/assets/6955509/3062373/3bace890-e21d-11e3-818f-15027e0b34ba.JPG)
 
 The backlight switch :
 
-![img_20130302_005732](https://cloud.githubusercontent.com/assets/6955509/3062337/fc125306-e21b-11e3-8cbd-c67d985095be.jpg)
