@@ -32,7 +32,7 @@ After some research I discovered that there is another model of Acer that had an
 
 
 ##Modify Housing
-
+<iframe title="YouTube video player" class="youtube-player" type="text/html" width="640" height="390" src="http://www.youtube.com/embed/W-Q7RMpINVo" frameborder="0" allowFullScreen></iframe>
 
 
 ##Finally Done!!!
