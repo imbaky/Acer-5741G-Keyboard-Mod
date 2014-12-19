@@ -25,7 +25,9 @@ After some research I discovered that there is another model of Acer that had an
 
 
 ###Disassemble your Laptop
-https://www.youtube.com/watch?v=RquQbcfAYBo
+
+<iframe>https://www.youtube.com/watch?v=RquQbcfAYBo </iframe>
+
 
 
 
