@@ -27,7 +27,7 @@ After some research I discovered that there is another model of Acer that had an
 ###Disassemble your Laptop
 
 <iframe>https://www.youtube.com/watch?v=RquQbcfAYBo </iframe>
-
+YT("RquQbcfAYBo", print = TRUE)
 
 
 
