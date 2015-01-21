@@ -7,7 +7,7 @@ When I first got my laptop a few years ago, I thought it was perfect but it was 
 So I decide to change that and add lights to the keyboard.
 
 
-##But how?
+##how?
 
 After some research I discovered that there is another model of Acer that had an identical keyboard but with an extra flex-cable to power the lights but it would take a few modifications for it to work.
 
@@ -27,7 +27,7 @@ After some research I discovered that there is another model of Acer that had an
 ###Disassemble your Laptop
 
 <iframe>https://www.youtube.com/watch?v=RquQbcfAYBo </iframe>
-YT("RquQbcfAYBo", print = TRUE)
+
 
 
 
